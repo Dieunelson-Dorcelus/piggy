@@ -2,7 +2,7 @@ import Vue from 'vue'
 import Composition from '@vue/composition-api'
 import { BootstrapVue, IconsPlugin } from 'bootstrap-vue'
 import App from './App.vue'
-import router from './router'
+import router from './routers'
 
 
 
